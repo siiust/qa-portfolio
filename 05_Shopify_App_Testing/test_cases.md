@@ -28,4 +28,3 @@
 
 **Scope:** These test cases were prepared from a review of the available source code and project documentation. AI assistance was used to organize and edit the documentation.
 
-Note: This is a preliminary draft based on code review. I used AI assistance to help structure the markdown tables and speed up the initial documentation process, but the test scenarios were derived from my own analysis of the provided source code.
