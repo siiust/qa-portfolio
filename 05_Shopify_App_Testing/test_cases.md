@@ -25,3 +25,6 @@
 |---|---|---|
 | TC-06 | Check "Safe Mode" | In `main.py` (`create_draft` function), `"status":"draft"` is explicitly set. Automatic publishing is impossible. |
 | TC-07 | Shopify API error handling | If the Shopify API is unavailable (e.g., invalid token), `draft_error` appears in the logs, and the user sees the message "Draft failed". |
+
+
+Note: This is a preliminary draft based on code review. I used AI assistance to help structure the markdown tables and speed up the initial documentation process, but the test scenarios were derived from my own analysis of the provided source code.
